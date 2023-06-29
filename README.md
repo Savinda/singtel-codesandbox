@@ -5,6 +5,7 @@
 - codespace:
   - web: https://codesandbox.io/s/github/Savinda/singtel-rukshanxyz/tree/main/
   - cloud: https://codesandbox.io/p/github/Savinda/singtel-rukshanxyz/tree/main/
+- Document: https://1drv.ms/w/s!ApXyh0fhiRe7gUW2en1klJInm8x3?e=k2I6Ex
 
 Use dogs API to search for dog breeds and present the results to the user.
 It's up to you to decide how far you want to go, time permitting.
