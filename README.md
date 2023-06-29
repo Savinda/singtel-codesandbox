@@ -1,8 +1,10 @@
 # Dog breed search (Coding Assignment)
 
 
-- live: https://singtel-frontend.vercel.app/
-- codespace: 
+- live: https://t95m7m.csb.app/
+- codespace:
+  - web: https://codesandbox.io/s/github/Savinda/singtel-rukshanxyz/tree/main/
+  - cloud: https://codesandbox.io/p/github/Savinda/singtel-rukshanxyz/tree/main/
 
 Use dogs API to search for dog breeds and present the results to the user.
 It's up to you to decide how far you want to go, time permitting.
